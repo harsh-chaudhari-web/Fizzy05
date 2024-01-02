@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harsh Chaudhari</h1>
+<h1 align="center">Hi 👋, I'm Harsh Chaudhari(fizzy05 / fizzythefoo)</h1>
 <h3 align="center">A passionate frontend developer & Wordpress Developer from India</h3>
 
 - 💬 Ask me about **Html, Css, Js**
